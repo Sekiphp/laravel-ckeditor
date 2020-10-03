@@ -1,5 +1,5 @@
 {
-	"name": "unisharp/laravel-ckeditor",
+	"name": "sekiphp/laravel-ckeditor",
 	"description": "JavaScript WYSIWYG web text editor (for laravel).",
 	"type": "library",
 	"keywords": [ "ckeditor", "fckeditor", "editor", "wysiwyg", "html", "richtext", "text", "javascript", "laravel"],
@@ -23,7 +23,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Unisharp\\Ckeditor\\": "./"
+			"Sekiphp\\Ckeditor\\": "./"
 		}
 	},
 	"require": {
@@ -33,7 +33,7 @@
 	"extra": {
 		"laravel": {
 			"providers": [
-				"Unisharp\\Ckeditor\\ServiceProvider"
+				"Sekiphp\\Ckeditor\\ServiceProvider"
 			]
 		}
 	}
