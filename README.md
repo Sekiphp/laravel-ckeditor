@@ -10,6 +10,7 @@ CKEditor Package
 ## Installation
 ### Set up package
 
+<<<<<<< HEAD
 ```
 composer require unisharp/laravel-ckeditor
 ```
@@ -50,4 +51,5 @@ Or if you want to initiate by jQuery selector :
 
 ## File Uploader Integration
 
- Instead of using KCFinder, we recommend [laravel-filemanager](https://github.com/UniSharp/laravel-filemanager) for the file uploader integration for better laravel user access control and specific per user folders.
+Instead of using KCFinder, we recommend [laravel-filemanager](https://github.com/UniSharp/laravel-filemanager) for the file uploader integration for better laravel user access control and specific per user folders.
+Please check the `LICENSE.md` file for more information about the license.
